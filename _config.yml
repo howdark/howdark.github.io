@@ -32,3 +32,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+highlighter: rouge
+encoding: utf-8
