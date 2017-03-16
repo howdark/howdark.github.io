@@ -5,8 +5,6 @@ date: 2017-03-15 00:10:00 +0900
 categories: jekyll update deep-learning
 ---
 
-# 17.03.15 Articles
-
   - [빅 데이터(기계학습/패턴분석)의 수학적 이해를 위한 책들](http://shb.skku.edu/bigs/menu3/sub01.jsp)
   - [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook) / [강의자료링크](http://www.deeplearningbook.org/)
   - [OpenAI.com에서 정리/제공하는 딥러닝 입문자를 위한 문제(예제)들](https://openai.com/requests-for-research/)

@@ -5,8 +5,6 @@ date: 2017-03-14 00:10:00 +0900
 categories: jekyll update deep-learning
 ---
 
-# 17.03.14 Articles
-
   - [제조업 빅데이터 활용 동향 분석과 시사점](http://mangastorytelling.tistory.com/m/6656)
   - [딥러닝 챗봇, Part1 - Introduction (한글번역)](http://mlduck.tistory.com/m/6)
   - [Facebook Pretrained Word Vectors 사용 후기(네이버 평점 학습 결과)](http://rpubs.com/kkweon/fb-pretrained-wordvectors)
