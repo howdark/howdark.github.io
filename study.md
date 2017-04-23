@@ -2,6 +2,7 @@
 layout: page
 title: Study Plan
 permalink : /study/
+comments:true
 ---
 
 
