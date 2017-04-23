@@ -40,7 +40,8 @@ pages:
   - url: /study/
   - url: /about/
 
-disqus:
-  id: "howdark"
+site:
+    disqus:
+        shortname: "howdark"
 
 #layout: default
