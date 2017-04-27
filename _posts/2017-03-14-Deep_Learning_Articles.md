@@ -1,8 +1,9 @@
 ---
-title: "170314 Articles"
+title: "170314 Deep Learning Articles"
 author: "Seongbong Kim"
 date: 2017-03-14 00:10:00 +0900
-categories: jekyll update deep-learning test
+categories: jekyll update deep-learning
+permalink: /blog/:title
 comments: true
 ---
 

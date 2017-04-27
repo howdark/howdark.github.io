@@ -3,6 +3,7 @@ title: "170315 Articles"
 author: "Seongbong Kim"
 date: 2017-03-15 00:10:00 +0900
 categories: jekyll update deep-learning
+permalink: /blog/:title
 comments: true
 ---
 

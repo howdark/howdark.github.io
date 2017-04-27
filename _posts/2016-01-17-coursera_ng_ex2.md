@@ -3,6 +3,7 @@ title: "Machine Learning with R - W3"
 author: "Seongbong Kim"
 date: 2016-01-17 00:00:00 +0900
 categories: jekyll update machine-learning
+permalink: /blog/:title
 comments: true
 ---
 
