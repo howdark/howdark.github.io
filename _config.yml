@@ -18,7 +18,7 @@ email: darkbongcm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I believe that continuous studying will never betray my life. For my study materials and summarizing understanding, this site will go on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: howdark.github.io # ""the base hostname & protocol for your site, e.g. http://example.com
+url: http://howdark.github.io # ""the base hostname & protocol for your site, e.g. http://example.com
 author: Seongbong Kim
 #twitter_username: jekyllrb
 #github_username:  jekyll
