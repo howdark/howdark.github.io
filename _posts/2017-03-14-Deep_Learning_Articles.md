@@ -3,6 +3,7 @@ title: "170314 Articles"
 author: "Seongbong Kim"
 date: 2017-03-14 00:10:00 +0900
 categories: jekyll update deep-learning
+comments: true
 ---
 
   - [제조업 빅데이터 활용 동향 분석과 시사점](http://mangastorytelling.tistory.com/m/6656)
