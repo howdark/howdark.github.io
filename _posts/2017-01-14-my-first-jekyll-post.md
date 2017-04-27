@@ -3,6 +3,7 @@ layout: post
 title:  "First Post"
 date:   2017-01-14 21:50:25 +0900
 categories: jekyll update
+comments: true
 ---
 Jekyll을 이용한 Github page의 첫 번째 Posting입니다.
 

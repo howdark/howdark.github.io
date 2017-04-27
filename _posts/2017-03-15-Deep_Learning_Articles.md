@@ -3,6 +3,7 @@ title: "170315 Articles"
 author: "Seongbong Kim"
 date: 2017-03-15 00:10:00 +0900
 categories: jekyll update deep-learning
+comments: true
 ---
 
   - [빅 데이터(기계학습/패턴분석)의 수학적 이해를 위한 책들](http://shb.skku.edu/bigs/menu3/sub01.jsp)

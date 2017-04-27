@@ -3,6 +3,7 @@ title: "Machine Learning with R - W1"
 author: "Seongbong Kim"
 date: 2016-01-15 00:00:00 +0900
 categories: jekyll update machine-learning
+comments: true
 ---
 
 Week 1과 2에는 Introduction과 기본적인 Linear Algebra에 대한 내용을 다루고 있고 단변량,다변량 Linear Regression의 Learning 알고리즘을 다루고 있습니다. 그 동안 Linear Regression은 `lm`과 같은 구현된 함수를 가지고 결과값만 활용을 했었지 어떻게 최적값을 찾아내는지에 대한 고민은 없었는데 이 강의를 통해서 대략적인 원리를 알게 됐습니다.

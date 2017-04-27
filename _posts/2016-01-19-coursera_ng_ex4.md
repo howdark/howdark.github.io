@@ -3,6 +3,7 @@ title: "Machine Learning with R - W5"
 author: "Seongbong Kim"
 date: 2016-01-19 00:10:00 +0900
 categories: jekyll update machine-learning
+comments: true
 ---
 
 이번 포스트에서는 Week 5에 소개된 Neural Networks와 관련된 Exercise를 R로 구현해 보겠습니다.

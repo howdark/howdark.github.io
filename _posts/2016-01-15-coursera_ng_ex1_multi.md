@@ -3,6 +3,7 @@ title: "Machine Learning with R - W2"
 author: "Seongbong Kim"
 date: 2016-01-15 00:10:00 +0900
 categories: jekyll update machine-learning
+comments: true
 ---
 
 이번 포스트에서는 Week 2에 소개된 Multi-variable linear regression과 관련된 Exercise를 R로 구현해 보겠습니다.

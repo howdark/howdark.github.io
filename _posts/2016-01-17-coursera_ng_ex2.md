@@ -3,6 +3,7 @@ title: "Machine Learning with R - W3"
 author: "Seongbong Kim"
 date: 2016-01-17 00:00:00 +0900
 categories: jekyll update machine-learning
+comments: true
 ---
 
 이번 포스트에서는 Week 3에 소개된 Logistic Regression과 관련된 Exercise를 R로 구현해 보겠습니다.
