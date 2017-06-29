@@ -5,6 +5,7 @@ date: 2017-06-29 23:35:00 +0900
 categories: jekyll update deep-learning
 permalink: /blog/:title
 comments: true
+use_math: true
 ---
 
 ## RNN Algorithm - 1 (Simple RNN)
@@ -21,7 +22,7 @@ comments: true
     -   Xavier 초기화
     -   등등
 
-<center>![SimpleRNN1](/assets/DL_algorithm/RNN/SimpleRNN1.png)</center>
+![SimpleRNN1](/assets/DL_algorithm/RNN/SimpleRNN1.png)
 
 <br>
 #### 2. Forward Propagation
@@ -29,7 +30,7 @@ comments: true
 -   Input으로 RNN 내부 연산을 거친 후 output을 산출하는 과정
 -   Time step 1에서부터 t까지 모든 연산 수행 (최초 State는 $s_0$)
 
-<center>![SimpleRNN2](/assets/DL_algorithm/RNN/SimpleRNN2.png) ![SimpleRNN3](/assets/DL_algorithm/RNN/SimpleRNN3.png)</center>
+![SimpleRNN2](/assets/DL_algorithm/RNN/SimpleRNN2.png) ![SimpleRNN3](/assets/DL_algorithm/RNN/SimpleRNN3.png)
 
 -   1단계 : 현재 State 산출
 <br>
@@ -51,7 +52,7 @@ comments: true
 
 -   예측된 output과 실제 값과의 loss를 계산
 
-<center>![SimpleRNN4](/assets/DL_algorithm/RNN/SimpleRNN4.png)</center>
+![SimpleRNN4](/assets/DL_algorithm/RNN/SimpleRNN4.png)
 
 -   Loss functions
     -   Cross Entropy
@@ -79,7 +80,7 @@ comments: true
     -   (Forward Propagation → Loss → BPTT → SGD) : 1 Step ▶ 반복
 
 
-<center>![SimpleRNN5](/assets/DL_algorithm/RNN/SimpleRNN5.png)</center>
+![SimpleRNN5](/assets/DL_algorithm/RNN/SimpleRNN5.png)
 
 <br>
 #### 5. Problem of BPTT

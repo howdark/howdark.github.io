@@ -25,6 +25,8 @@ author: Seongbong Kim
 
 # Build settings
 markdown: kramdown
+#markdown: redcarpet
+#markdown: maruku
 theme: minima
 gems:
   - jekyll-feed
