@@ -1,6 +1,6 @@
 ---
 title: Hadoop ecosystem 경험하기-(1)
-author: Seongbong Kim
+author: "Seongbong Kim"
 date: 2017-05-09 11:17:00 +0900
 categories: jekyll update study hadoop
 permalink: /blog/:title
